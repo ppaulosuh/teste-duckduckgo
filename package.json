@@ -1,0 +1,23 @@
+{
+  "name": "teste-duckduckgo",
+  "version": "1.0.0",
+  "description": "Testes automatizados com Cypress e Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppaulosuh/teste-duckduckgo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppaulosuh/teste-duckduckgo/issues"
+  },
+  "homepage": "https://github.com/ppaulosuh/teste-duckduckgo#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
