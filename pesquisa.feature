@@ -19,5 +19,5 @@ Então deve exibir as noticias sobre Bitcoin
 
 Cenário: Digitando e utilizando formulário
 Quando eu digitar "ultmas noticias Bitcoin"
-E selecionar no formulário
+E selecionar o formulário
 Então deve exibir as noticias sobre Bitcoin
